@@ -27,7 +27,7 @@
 ※36※北京新闻☆北京影视☆北京文艺☆北京青年☆北京生活☆北京科教☆北京财经☆杭州-1☆杭州-2☆杭州-3☆杭州-4☆杭州-5☆上海都市☆上海蛇口☆上虞-1☆上虞-2☆上虞-3☆四川乡村☆四川-7☆四川影视文艺☆四川文化旅游☆四川新闻☆四川科教☆四川经济☆天津西青☆西安新闻综合☆徐州-4☆浙江钱江☆浙江经济生活☆浙江教育科技☆浙江影视娱乐☆浙江6☆浙江新闻☆浙江国际☆浙江海盐☆中国交通※
 国内地方节目单
 亚洲全球节目单
-※20※亚洲新闻☆亚旅卫视☆环球旅游☆CBC台☆CBN☆CBS News☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台☆NHK World☆India News☆IndiaToday☆India TV☆Insight TV☆Introuble☆INTVSimayeAzadi☆Inwild☆Inwonder TV※
+※19※亚洲新闻☆环球旅游☆CBC台☆CBN☆CBS News☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台☆NHK World☆India News☆IndiaToday☆India TV☆Insight TV☆Introuble☆INTVSimayeAzadi☆Inwild☆Inwonder TV※
 亚洲全球节目单
 特色节目1节目单
 ※50※4KUHO☆4K奥林匹克☆4K超高清☆芒果4K☆欢笑剧场4K☆CHC高清☆CHC动作☆CHC家庭☆黑莓动画☆黑莓电影☆爱情喜剧☆动作电影☆古装剧场☆剧场综艺☆家庭剧场☆怡伴健康☆金牌综艺☆惊悚悬疑☆精品体育☆军旅剧场☆精品记录☆精品大剧☆军事评论☆明星大片☆武搏世界☆中国功夫☆潮妈辣婆☆哒啵赛事☆炫舞未来☆农业致富☆港剧风云☆全球大片☆JJ斗地主☆青春动漫☆海外剧场☆联众视频☆健康养生☆谍战剧场☆看天下精选☆戏曲精选☆超级体育☆极速汽车☆宝宝动画☆华语影院☆星光院线☆电影1☆电影2☆剧集1☆剧集2☆峨眉电影※
@@ -202,7 +202,6 @@ TITVhttp://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3
 国内地方直播源
 亚洲全球直播源
 亚洲新闻http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8亚洲新闻
-亚旅卫视http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8亚旅卫视
 环球旅游http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8环球旅游
 CBC台http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8CBC台 卡
 CBNhttps://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8CBN
@@ -230,7 +229,8 @@ Inwonder TVhttps://inwonder-samsungau.amagi.tv/playlist.m3u8Inwonder TV
 4K奥林匹克http://ott.fj.chinamobile.com/*/*/*/3221227162/*.m3u84K奥林匹克
 4K超高清http://ott.fj.chinamobile.com/*/*/*/3221226998/*.m3u84K超高清
 芒果4Khttp://ott.fj.chinamobile.com/*/*/*/3221226887/*.m3u8芒果4K
-欢笑剧场4Khttp://39.134.18.68/*/*/*/3221226582/*.m3u8欢笑剧场4K
+欢笑剧场http://ott.fj.chinamobile.com/*/*/*/3221227145/*.m3u8欢笑剧场
+欢笑剧场4Khttp://dbiptv.sn.chinamobile.com/*/*/*/3221226582/*.m3u8欢笑剧场4K
 CHC高清http://39.134.18.68/PLTV/88888888/224/3221232382/*.m3u8CHC高清
 CHC动作http://dbiptv.sn.chinamobile.com/*/*/*/3221226465/*.m3u8CHC动作
 CHC家庭http://dbiptv.sn.chinamobile.com/*/*/*/3221226462/*.m3u8CHC家庭
@@ -305,7 +305,6 @@ JJ斗地主http://ott.fj.chinamobile.com/*/*/*/3221227033/*.m3u8JJ斗地主
 全纪实http://ott.fj.chinamobile.com/*/*/*/3221227083/*.m3u8全纪实
 东方财经http://ott.fj.chinamobile.com/*/*/*/3221227087/*.m3u8东方财经
 生活时尚http://ott.fj.chinamobile.com/*/*/*/3221227091/*.m3u8生活时尚
-欢笑剧场http://ott.fj.chinamobile.com/*/*/*/3221227145/*.m3u8欢笑剧场
 法治天地http://ott.fj.chinamobile.com/*/*/*/3221227176/*.m3u8法治天地
 七彩戏剧http://ott.fj.chinamobile.com/*/*/*/3221227212/*.m3u8七彩戏剧
 都市剧场http://ott.fj.chinamobile.com/*/*/*/3221227204/*.m3u8都市剧场

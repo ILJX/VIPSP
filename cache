@@ -27,7 +27,7 @@
 ※36※北京新闻☆北京影视☆北京文艺☆北京青年☆北京生活☆北京科教☆北京财经☆杭州-1☆杭州-2☆杭州-3☆杭州-4☆杭州-5☆上海都市☆上海蛇口☆上虞-1☆上虞-2☆上虞-3☆四川乡村☆四川-7☆四川影视文艺☆四川文化旅游☆四川新闻☆四川科教☆四川经济☆天津西青☆西安新闻综合☆徐州-4☆浙江钱江☆浙江经济生活☆浙江教育科技☆浙江影视娱乐☆浙江6☆浙江新闻☆浙江国际☆浙江海盐☆中国交通※
 国内地方节目单
 亚洲全球节目单
-※11※亚洲新闻☆亚旅卫视☆环球旅游☆CBC台☆CBN☆CBS News☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台※
+※23※亚洲新闻☆亚旅卫视☆环球旅游☆CBC台☆CBN☆CBS News☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台☆NHK World☆India News☆IndiaToday☆India TV☆IndigenousTV☆Insight TV☆Introuble☆Introuble TV☆INTV Simaye Azadi☆Inwild☆Inwild TV☆Inwonder TV※
 亚洲全球节目单
 特色节目1节目单
 ※50※4KUHO☆4K奥林匹克☆4K超高清☆芒果4K☆欢笑剧场4K☆CHC高清☆CHC动作☆CHC家庭☆黑莓动画☆黑莓电影☆爱情喜剧☆动作电影☆古装剧场☆剧场综艺☆家庭剧场☆怡伴健康☆金牌综艺☆惊悚悬疑☆精品体育☆军旅剧场☆精品记录☆精品大剧☆军事评论☆明星大片☆武搏世界☆中国功夫☆潮妈辣婆☆哒啵赛事☆炫舞未来☆农业致富☆港剧风云☆全球大片☆JJ斗地主☆青春动漫☆海外剧场☆联众视频☆健康养生☆谍战剧场☆看天下精选☆戏曲精选☆超级体育☆极速汽车☆宝宝动画☆华语影院☆星光院线☆电影1☆电影2☆剧集1☆剧集2☆峨眉电影※
@@ -203,7 +203,7 @@ CGTN西语http://ott.fj.chinamobile.com/*/*/*/3221227238/*.m3u8CGTN西语
 亚洲新闻http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8亚洲新闻
 亚旅卫视http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8亚旅卫视
 环球旅游http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8环球旅游
-CBC台http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8CBC台
+CBC台http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8CBC台 卡
 CBNhttps://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8CBN
 CBS Newshttp://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8CBS News
 CNC英文1http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8CNC英文1
@@ -211,6 +211,18 @@ CNC英文2http://source07.v.news.cn/live/CNC_EN/playlist.m3u8CNC英文2
 CNC中文1http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8CNC中文1
 CNC中文2http://source07.v.news.cn/live/CNC_CN/playlist.m3u8CNC中文2
 CNN台https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8CNN台
+NHK Worldhttps://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8NHK World
+India Newshttps://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8India News
+IndiaTodayhttps://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8IndiaToday
+India TVhttps://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8India TV
+IndigenousTVhttp://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8IndigenousTV
+Insight TVhttps://insighttv-samsungau.amagi.tv/playlist.m3u8Insight TV
+Introublehttps://introuble-samsung.amagi.tv/playlist.m3u8Introuble
+Introuble TVhttps://introuble-samsungau.amagi.tv/playlist.m3u8Introuble TV
+INTV Simaye Azadihttps://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8INTV Simaye Azadi
+Inwildhttps://inwild-samsung-uk.amagi.tv/playlist.m3u8Inwild
+Inwild TVhttps://inwild-samsungau.amagi.tv/playlist.m3u8Inwild TV
+Inwonder TVhttps://inwonder-samsungau.amagi.tv/playlist.m3u8Inwonder TV
 亚洲全球直播源
 特色节目1直播源
 4KUHOhttp://ott.fj.chinamobile.com/*/*/*/3221226825/*.m3u84KUHO

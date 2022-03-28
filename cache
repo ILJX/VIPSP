@@ -27,7 +27,7 @@
 ※23※杭州-1☆杭州-2☆杭州-3☆杭州-4☆杭州-5☆上海都市☆四川公共乡村☆四川妇女儿童☆四川影视文艺☆四川文化旅游☆四川新闻☆四川科教☆四川经济☆天津西青☆浙江钱江☆浙江经济生活☆浙江教育科技☆浙江影视娱乐☆浙江民生休闲☆浙江公共新闻☆浙江国际☆浙江海盐☆中国交通※
 国内地方节目单
 亚洲全球节目单
-※13※亚洲新闻☆亚旅卫视☆环球旅游☆CBC News☆CBC台☆CBN☆CBS News1☆CBS News2☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台※
+※12※亚洲新闻☆亚旅卫视☆环球旅游☆CBC News☆CBC台☆CBN☆CBS News☆CNC英文1☆CNC英文2☆CNC中文1☆CNC中文2☆CNN台※
 亚洲全球节目单
 特色节目1节目单
 ※50※4KUHO☆4K奥林匹克☆4K超高清☆芒果4K☆欢笑剧场4K☆CHC高清☆CHC动作☆CHC家庭☆黑莓动画☆黑莓电影☆爱情喜剧☆动作电影☆古装剧场☆剧场综艺☆家庭剧场☆怡伴健康☆金牌综艺☆惊悚悬疑☆精品体育☆军旅剧场☆精品记录☆精品大剧☆军事评论☆明星大片☆武搏世界☆中国功夫☆潮妈辣婆☆哒啵赛事☆炫舞未来☆农业致富☆港剧风云☆全球大片☆JJ斗地主☆青春动漫☆海外剧场☆联众视频☆健康养生☆谍战剧场☆看天下精选☆戏曲精选☆超级体育☆极速汽车☆宝宝动画☆华语影院☆星光院线☆电影1☆电影2☆剧集1☆剧集2☆峨眉电影※
@@ -194,8 +194,7 @@ CNN台https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af
 CBC Newshttps://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8CBC News
 CBC台http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8CBC台
 CBNhttps://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8CBN
-CBS News1https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8CBS News1
-CBS News2http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8CBS News2
+CBS Newshttps://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8CBS News
 CNC英文1http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8CNC英文1
 CNC英文2http://source07.v.news.cn/live/CNC_EN/playlist.m3u8CNC英文2
 CNC中文1http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8CNC中文1
